@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Test : MonoBehaviour
+public class PlayerController : MonoBehaviour
 {
     private Rigidbody2D _rigidbody2D;
     float EngineStrength = 5.0f;
